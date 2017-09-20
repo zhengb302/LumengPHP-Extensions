@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "6d9ca60b1c25b993cbc6da654905b37e",
-    "content-hash": "9a51bef992f4b51bf90ae2ef6c320143",
+    "hash": "0982f72a468765d7b47e9844ca0f2ac0",
+    "content-hash": "9dd8b276bbfb47ae10fd1b03baabb869",
     "packages": [
         {
             "name": "lumeng/lumeng-php",
-            "version": "dev-master",
+            "version": "v0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zhengb302/LumengPHP.git",
-                "reference": "5998f9130fcaca3b115624c5a498a61ce3a91711"
+                "reference": "ed0e4f4bbbc5121c4e8c4d5d57f9403e2a359348"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zhengb302/LumengPHP/zipball/5998f9130fcaca3b115624c5a498a61ce3a91711",
-                "reference": "5998f9130fcaca3b115624c5a498a61ce3a91711",
+                "url": "https://api.github.com/repos/zhengb302/LumengPHP/zipball/ed0e4f4bbbc5121c4e8c4d5d57f9403e2a359348",
+                "reference": "ed0e4f4bbbc5121c4e8c4d5d57f9403e2a359348",
                 "shasum": ""
             },
             "require": {
@@ -54,20 +54,20 @@
                 "framework",
                 "php framework"
             ],
-            "time": "2017-09-01 06:29:01"
+            "time": "2017-09-14 10:20:29"
         },
         {
             "name": "lumeng/lumeng-php-db",
-            "version": "dev-master",
+            "version": "v0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zhengb302/LumengPHP-Db.git",
-                "reference": "f45e4f7182f2887325444bbf800258dba916fbc6"
+                "reference": "5dd6c22ce7bf6b37b226d9cc46c4d62fb78fb7cc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zhengb302/LumengPHP-Db/zipball/f45e4f7182f2887325444bbf800258dba916fbc6",
-                "reference": "f45e4f7182f2887325444bbf800258dba916fbc6",
+                "url": "https://api.github.com/repos/zhengb302/LumengPHP-Db/zipball/5dd6c22ce7bf6b37b226d9cc46c4d62fb78fb7cc",
+                "reference": "5dd6c22ce7bf6b37b226d9cc46c4d62fb78fb7cc",
                 "shasum": ""
             },
             "require": {
@@ -98,7 +98,7 @@
                 "database operation library",
                 "library"
             ],
-            "time": "2017-08-22 09:16:54"
+            "time": "2017-09-20 09:52:19"
         },
         {
             "name": "psr/log",
@@ -201,10 +201,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "lumeng/lumeng-php": 20,
-        "lumeng/lumeng-php-db": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
