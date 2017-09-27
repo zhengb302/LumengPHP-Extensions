@@ -14,8 +14,8 @@
     ],
     "require": {
         "php": ">=5.6.0",
-        "lumeng/lumeng-php": "0.2.0",
-        "lumeng/lumeng-php-db": "0.1.0"
+        "lumeng/lumeng-php": "0.2.*",
+        "lumeng/lumeng-php-db": "0.1.*"
     },
     "autoload": {
         "psr-4": {
